@@ -1,11 +1,11 @@
-# WallEye Fund Website
+# Walleye Capital Website
 
-A static website for WallEye Fund, a crypto hedge fund, inspired by Walleye Capital's design.
+A static website for Walleye Capital at [walleye.finance](https://walleye.finance).
 
 ## Project Structure
 
 ```
-WallEye_site/
+walleye.finance/
 ├── index.html          # Homepage
 ├── about.html          # About Us page
 ├── approach.html       # Investment Approach page
@@ -64,5 +64,3 @@ WallEye_site/
 - This is a static website with no backend functionality
 - The contact form shows an alert on submission (no actual email sending)
 - All animations and effects are CSS/JavaScript based
-- The design is inspired by Walleye Capital's website but adapted for a crypto hedge fund
-
